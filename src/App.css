@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+.container{
+    display:flex;
+}
+main{
+    width: 100%;
+    padding: 20px;
+}
+.sidebar{
+    background: #2E1619;
+    ;
+    color: #fff;
+    height: 100vh;
+    width: 200px;
+    transition: all 0.5s;
+}
+.top_section{
+    display: flex;
+    align-items:center;
+    padding:20px 15px;
+}
+.logo{
+    font-size: 30px;
+}
+.bars{
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.link{
+    display: flex;
+    color: #fff;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+.link:hover{
+    background:lightskyblue;
+    color: #000;
+    transition: all 0.5s;
+}
+.active{
+    background: lightskyblue;
+    color: #000;
+}
+.icon, .link_text{
+    font-size: 20px;
+}
+.Add{
+    justify-content: center;
+    margin-left:12px ;
+    font-size: large;
+    margin-top: 122px;
+    background: linear-gradient(101.27deg, #FF7594 -6.58%, #FF7C65 102.46%);
+    width: Fixed (53px);
+height: Fixed (53px);
+padding: 12px;
+border-radius: 50px;
+gap: 10px;
+
+}
+.Add span{
+    width: 31px;
+height: 31px;
+padding: 11px, 11px, 10px, 10px;
+border-radius: 50px;
+gap: 10px;
+
+}
+
+
+.Nav_Style{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Home_Banner{
+    width: Fixed (718px);
+height: Fixed (213px);
+top: 104px;
+left: 156px;
+padding: 0px, 16px, 0px, 16px;
+border-radius: 8px;
+gap: 8px;
+
+
+}
+
+.bg{
+    background-color: #1d070a;
+}
+
+.nav_text{
+    color: white;
+    margin-bottom: 22px;
+}
+
+.text{
+    color: white;
+}

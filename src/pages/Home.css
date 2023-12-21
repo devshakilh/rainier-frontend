@@ -1,0 +1,406 @@
+.banner_text{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+width: 210px;
+height: 36px;
+color: #FFFFFF;
+
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Home_Banner{
+    background: linear-gradient(91.57deg, #FF7594 19.86%, #FF797B 84.16%, #FF7C65 139.72%);
+    width: Fixed (718px);
+    height: Fixed (213px);
+    top: 104px;
+    left: 152px;
+    padding: 0px, 16px, 0px, 16px;
+    border-radius: 8px;
+    gap: 8px;
+    
+}
+
+.banner_container{
+    width: Fixed (680px);
+height: Fixed (213px);
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+ .banner_img{
+    width: 230px;
+height: 230px;
+
+ }
+
+ .banner_text_container{
+    width: Hug (342px);
+    height: Hug (110px);
+    gap: 13px;
+    
+}
+.banner_text_p{
+  
+font-family: Poppins;
+width: 342px;
+height: 24px;
+
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+
+.banner_text_p_{
+    width: 244px;
+    height: 24px;
+    
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+
+
+.home_design_2{
+    width: Hug (718.45px);
+height: Hug (153px);
+top: 345px;
+left: 152px;
+gap: 30px;
+display: flex;
+
+
+
+}
+
+.home_design_child{
+    width: 157.11px;
+height: 153px;
+margin-top: 22px;
+background: #3b2a2c;
+padding-left: 8px;
+border-radius: 8px;
+
+}
+.icon-img{
+    width: 41px;
+height: 40px;
+padding: 8px, 9px, 8px, 8px;
+border-radius: 5px;
+margin-top: 12px;
+
+}
+.child_text{
+    font-family: Poppins;
+    width: 75px;
+height: 19px;
+
+font-size: 12px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #D1D5DB;
+
+}
+
+.child_num{
+    font-family: Poppins;
+    width: 114.34px;
+height: 25px;
+
+font-size: 17px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #D1D5DB;
+
+}
+.child_num_main{
+    width: Hug (114.34px);
+height: Hug (49.58px);
+top: 87px;
+left: 12px;
+gap: 6.58px;
+
+}
+.child_container{
+    display: flex;
+    gap: 6px;
+}
+
+.child_menu{
+    width: Hug (62.27px);
+height: Hug (18px);
+gap: 6.58px;
+
+}
+
+.child_menu_text{
+    font-family: Poppins;
+    width: 45px;
+height: 18px;
+
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #D1D5DB;
+
+
+}
+
+
+/* to do list design css 
+
+==========
+*/
+
+
+
+.todo_list_container{
+    width: Fixed (718px);
+height: Hug (445px);
+top: 535px;
+left: 152px;
+gap: 16px;
+margin-top: 22px;
+background: #3b2a2c;
+border-radius: 8px;
+
+}
+
+.todo_list_text{
+    font-family: Poppins;
+    width: 83px;
+height: 24px;
+top: 18px;
+left: 19px;
+
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #D1D5DB;
+
+}
+
+.todo_list_input{
+    width: 569px;
+height: 76px;
+top: 50px;
+left: 19px;
+border-radius: 8px;
+border: 1px;
+background: linear-gradient(0deg, #EDEBEB, #EDEBEB),
+linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+
+}
+
+.todo_list_btn{
+    width: Fixed (83px);
+height: Fixed (32px);
+top: 50px;
+left: 604px;
+padding: 12px;
+border-radius: 5px;
+gap: 10px;
+border: none;
+background: linear-gradient(101.27deg, #FF7594 -6.58%, #FF7C65 102.46%);
+margin-left: 12px;
+
+
+}
+.todo_list_btn_text{
+    font-family: Poppins;
+    width: 29px;
+height: 20px;
+
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #FBFBFB;
+
+}
+
+.todo_list_btn_icon{
+    width: 9.33px;
+height: 7px;
+top: 3.5px;
+left: 2.33px;
+color: #FBFBFB;
+
+}
+
+.checked_box{
+    width: Fixed (668px);
+height: Hug (32px);
+top: 148px;
+left: 19px;
+padding: 0px, 0px, 0px, 8px;
+display: flex;
+justify-content: space-between;
+margin-top: 12px;
+
+}
+.checked_box_text{
+    width: 66px;
+height: 22px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #D1D5DB;
+
+margin-left: 8px;
+
+}
+.checked_box_date{
+    font-family: Poppins;
+    width: 168px;
+height: 22px;
+
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #A6A6A6;
+
+}
+
+
+
+/* appointments design 
+
+
+==========
+*/
+
+.timeline-main-container {
+    border-left: 5px solid gainsboro;
+    margin-top: 12px;
+   
+  }
+  
+  .xyz::before {
+    content: "";
+    border-radius: 50%;
+    height: 10px; /* Changed */
+    width: 10px; /* Changed */
+    background-color: white;
+    position: absolute; /* Added */
+    left: -58px; /* Added */
+  }
+  
+  .xyz {
+    margin-left: 50px;
+    position: relative; /* Added */
+  }
+
+
+
+.appointments_container{
+    width: Hug (452px);
+height: Hug (570px);
+top: 104px;
+left: 1038px;
+padding: 16px;
+border-radius: 8px;
+gap: 16px;
+color: gray;
+background: #3b2a2c;
+}
+.appointments_text{
+    
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+
+}
+
+.appointment_container{
+    width: 420px;
+height: 498px;
+
+}
+
+.appointment_date{
+    width: 59px;
+height: 107px;
+background: white;
+border-radius: 12px;
+align-items: center;
+display: flex;
+}
+.appointment_date p{
+    width: Hug (38px);
+height: Hug (66px);
+top: 22px;
+left: 21px;
+gap: 8px;
+
+
+
+}
+.appointment_year{
+    font-family: Poppins;
+font-size: 13px;
+width: 31px;
+height: 16px;
+opacity: 0.6px;
+
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0px;
+text-align: left;
+padding-top: 7px;
+margin: 7px;
+}
+
+.appointment_name{
+   
+font-family: Poppins;
+width: 250px;
+height: 24px;
+
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #FFFFFF;
+
+
+}
